@@ -1,0 +1,5 @@
+Tried to follow Philipp Lackner's tutorial video but with just some minimal code, I already ran
+into problems
+1. A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptWithoutKotlincTask$KaptExecutionWorkAction
+2. Cannot find symbol class ApplicationComponent
+3. Hilt ????
